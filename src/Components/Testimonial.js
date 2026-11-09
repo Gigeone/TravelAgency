@@ -10,40 +10,37 @@ export default function Testimonials() {
       <div className="testimonials">
         <div className="testimonial">
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate
-            asperiores eaque.
+            Our two weeks in Bali were perfectly organised, from the airport pickup to the hidden beaches our guide showed us. We are already planning the next trip.
           </p>
           <div className="info">
             <img src={avatarImage} alt="" />
             <div className="details">
-              <h4>Kishan Sheth</h4>
-              <span>CEO - Shashaan Web Solutions</span>
+              <h4>Emma Laurent</h4>
+              <span>Family trip to Bali</span>
             </div>
           </div>
         </div>
         <div className="testimonial">
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate
-            asperiores eaque.
+            Booking was simple and the team answered every question within the hour. The hotels were even better than in the photos.
           </p>
           <div className="info">
             <img src={avatarImage} alt="" />
             <div className="details">
-              <h4>Kishan Sheth</h4>
-              <span>CEO - Shashaan Web Solutions</span>
+              <h4>Lucas Martin</h4>
+              <span>Honeymoon in Santorini</span>
             </div>
           </div>
         </div>
         <div className="testimonial">
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate
-            asperiores eaque.
+            When our flight was cancelled, they rebooked everything overnight. That kind of support is priceless when you are on the other side of the world.
           </p>
           <div className="info">
             <img src={avatarImage} alt="" />
             <div className="details">
-              <h4>Kishan Sheth</h4>
-              <span>CEO - Shashaan Web Solutions</span>
+              <h4>Sarah Benali</h4>
+              <span>Road trip in Canada</span>
             </div>
           </div>
         </div>

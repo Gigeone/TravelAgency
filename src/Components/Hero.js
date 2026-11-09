@@ -11,9 +11,9 @@ export default function Hero() {
         <div className="title">
           <h1>TRAVEL TO EXPLORE</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere
-            natus, enim ipsam magnam odit deserunt itaque? Minima earum velit
-            tenetur!
+            Handpicked destinations, trusted local guides and flexible
+            bookings: tell us where you dream of going and we take care of
+            everything else.
           </p>
         </div>
         <div className="search">
